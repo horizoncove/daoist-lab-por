@@ -28,12 +28,12 @@ export default function DaoistHomePage() {
           <div className="w-8 h-8 border border-[#D4AF37] rotate-45 flex items-center justify-center">
             <div className="w-4 h-4 bg-[#E30B5C] rounded-full blur-[2px]" />
           </div>
-          <span className="text-xl tracking-[0.3em] font-light">THE VOID | 归墟</span>
+          <span className="text-xl tracking-[0.3em] font-light">LINGJING | 灵境</span>
         </motion.div>
         
         <div className="hidden md:flex gap-12 text-[10px] uppercase tracking-[0.2em] font-light text-[#757575]">
-          <Link href="/rituals" className="hover:text-[#D4AF37] transition-colors">Rituals</Link>
-          <Link href="/talismans" className="hover:text-[#D4AF37] transition-colors">Talismans</Link>
+          <Link href="/rituals" className="hover:text-[#D4AF37] transition-colors">Portal</Link>
+          <Link href="/talismans" className="hover:text-[#D4AF37] transition-colors">Manifest</Link>
           <Link href="/verify/ORDER-001" className="text-[#D4AF37]">Verify PoR</Link>
         </div>
       </nav>
@@ -47,15 +47,15 @@ export default function DaoistHomePage() {
           className="space-y-8 max-w-4xl"
         >
           <h2 className="text-[#D4AF37] text-xs uppercase tracking-[0.5em] font-light mb-4">
-            Ritual Encoded. Tradition Immutable.
+            Where Spirit Meets Code
           </h2>
           <h1 className="text-5xl md:text-7xl lg:text-8xl tracking-tight leading-[1.1] font-serif">
-            THE VOID <br /> 
-            <span className="italic font-light opacity-80 text-[#D4AF37]">The Digital Alchemy</span>
+            LINGJING <br /> 
+            <span className="italic font-light opacity-80 text-[#D4AF37]">The Spirit Realm</span>
           </h1>
           
           <p className="max-w-xl mx-auto text-[#757575] text-sm md:text-base leading-relaxed font-light tracking-wide py-8">
-            THE VOID | 归墟 是一个将千年道家仪式与 Web3 技术融合的现代灵性实验室。
+            LINGJING | 灵境 是一个将千年道家仪式与 Web3 技术融合的现代灵性实验室。
             我们通过 PoR 系统与智能雷击木，为您提供可验证、不可篡改的远程祭祀与灵性加持。
           </p>
 
@@ -118,7 +118,7 @@ export default function DaoistHomePage() {
 
       {/* Footer Decoration */}
       <footer className="py-20 text-center border-t border-white/5">
-        <div className="text-[10px] text-[#757575] uppercase tracking-[0.5em] mb-4">THE VOID | 归墟 &copy; 2026</div>
+        <div className="text-[10px] text-[#757575] uppercase tracking-[0.5em] mb-4">LINGJING | 灵境 &copy; 2026</div>
         <div className="flex flex-wrap justify-center gap-8 opacity-40 grayscale px-6">
           <span className="text-[9px] uppercase tracking-widest font-mono">Wudang Sanfeng Academy</span>
           <span className="text-[9px] uppercase tracking-widest font-mono">NFC Secure Protocol</span>

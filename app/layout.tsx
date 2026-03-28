@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "THE VOID | 归墟",
-  description: "Connecting Ancient Ritual with Immutable Code",
+  title: "LINGJING | 灵境",
+  description: "Ritual Encoded. Spirit Verified.",
 };
 
 export default function RootLayout({
