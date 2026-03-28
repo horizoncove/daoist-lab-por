@@ -32,6 +32,7 @@ export default function DaoistHomePage() {
         </motion.div>
         
         <div className="hidden md:flex gap-12 text-[10px] uppercase tracking-[0.2em] font-light text-[#757575]">
+          <Link href="/worldview" className="hover:text-[#D4AF37] transition-colors">Manifesto</Link>
           <Link href="/rituals" className="hover:text-[#D4AF37] transition-colors">Portal</Link>
           <Link href="/talismans" className="hover:text-[#D4AF37] transition-colors">Manifest</Link>
           <Link href="/verify/ORDER-001" className="text-[#D4AF37]">Verify PoR</Link>
