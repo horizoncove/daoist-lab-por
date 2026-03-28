@@ -30,7 +30,7 @@ export default function NamingPage() {
         </nav>
 
         <header className="text-center space-y-4">
-          <h2 className="text-[#D4AF37] text-xs uppercase tracking-[0.5em] font-light">Identity Alignment</h2>
+          <h2 className="text-[#D4AF37] text-xs uppercase tracking-[0.5em] font-light">Void Alignment</h2>
           <h1 className="text-4xl font-serif">Receive Your Spiritual Name</h1>
           <p className="text-xs text-[#757575] leading-relaxed">
             Your Western identity is a vessel. We provide the essence to fill it, 

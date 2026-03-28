@@ -147,7 +147,7 @@ export default function VerificationPage() {
 
         {/* Footer */}
         <footer className="text-center pt-8 border-t border-white/5">
-          <p className="text-[10px] text-[#757575] uppercase tracking-[0.3em]">The Daoist Lab &copy; 2026</p>
+          <p className="text-[10px] text-[#757575] uppercase tracking-[0.3em]">THE VOID | 归墟 &copy; 2026</p>
         </footer>
       </motion.div>
     </main>

@@ -34,7 +34,7 @@ export default function NFCSimulator() {
       <div className="max-w-md w-full space-y-12 text-center">
         <header className="space-y-4">
           <h2 className="text-[#D4AF37] text-xs uppercase tracking-[0.5em] font-light">NTAG 424 DNA Verification</h2>
-          <h1 className="text-4xl font-serif">Smart Talisman Auth</h1>
+          <h1 className="text-4xl font-serif">Void Talisman Auth</h1>
           <p className="text-xs text-[#757575] leading-relaxed px-12">
             Bring your device close to the Thunder-Struck wood to decrypt the spiritual signature.
           </p>

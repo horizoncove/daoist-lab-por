@@ -35,8 +35,8 @@ export default function DashboardPage() {
         {/* Header */}
         <header className="flex flex-col md:flex-row justify-between items-start md:items-center gap-6 pb-12 border-b border-white/5">
           <div className="space-y-2">
-            <h2 className="text-[#D4AF37] text-xs uppercase tracking-[0.5em] font-light">Daoist Lab / Portal</h2>
-            <h1 className="text-4xl font-serif">My Altar / 个人祭坛</h1>
+            <h2 className="text-[#D4AF37] text-xs uppercase tracking-[0.5em] font-light">THE VOID | Portal</h2>
+            <h1 className="text-4xl font-serif">My Altar / 归墟祭坛</h1>
           </div>
           <div className="flex items-center gap-4 bg-white/5 p-4 rounded-xl border border-white/10">
             <div className="w-10 h-10 rounded-full bg-[#D4AF37]/20 flex items-center justify-center">
